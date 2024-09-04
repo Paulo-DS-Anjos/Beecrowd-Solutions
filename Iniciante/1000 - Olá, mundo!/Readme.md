@@ -12,5 +12,8 @@ Espero que este problema não tenha te desmotivado de continuar tentando resolve
 
 ### Python 3.9
 
+### Python 3.9
+```python
 # -*- coding: utf-8 -*-
 print("Hello World!")
+```
