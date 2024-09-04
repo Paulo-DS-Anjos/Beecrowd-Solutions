@@ -15,3 +15,12 @@ A saída deverá ser uma mensagem conforme o exemplo fornecido abaixo, lembrando
 Para calcular o total da compra dos dois tipos de produtos, basta multiplicar as respectivas quantidades pelos valores dos produtos e somar esses dois valores.
 
 Repare que os códigos dos produtos são inúteis, então em linguagens onde é possível ignorar essas variáveis, Perceba que os códigos dos produtos são inúteis, mas é preciso lê-los mesmo assim. Basta pegar o valor para as variáveis e não as utilizar mais.
+
+## Python
+
+```Python
+# -*- coding: utf-8 -*-
+cod_1,num_pecas1,valor_peca1 = map(float,input().split())
+cod_2,num_pecas2,valor_peca2 = map(float,input().split())
+print(f'VALOR A PAGAR: R$ {(num_pecas1*valor_peca1 + num_pecas2*valor_peca2):.2f}')
+```
