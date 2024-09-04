@@ -14,7 +14,7 @@ Imprima a mensagem "PROD" e a variável PROD conforme exemplo abaixo, com um esp
 
 Vide problemas [1001-ExtremamenteBásico](../1001-ExtremamenteBásico/README.md) e [1003-SomaSimples](../1003-SomaSimples/README.md).
 
-##Python
+## Python
 
 ```Python
 # -*- coding: utf-8 -*-
