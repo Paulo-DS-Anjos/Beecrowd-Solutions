@@ -14,9 +14,9 @@ Apresentar a mensagem "A=" seguido pelo valor da variável area, conforme exempl
 
 ## Solução
 
-Só aplicar a fórmula da área direto, criando uma variável para guardar o valor de pi dado pelo enunciado ou usando o valor diretamente. Eu só coloquei o valor de pi como constante nas linguagens que permitiam isso para fins didáticos e para sinalizar que este valor alocado não irá mudar de valor (e com isso, a execução do código se torna mais rápida).
+Só aplicar a fórmula da área direto, criamos uma variável para armazenar o valor do raio informado pelo usuário, logo após criar uma variável para guardar o valor de pi dado pelo enunciado ou usando o valor diretamente. Eu só coloquei o valor de pi como constante para fins didáticos e para sinalizar que este valor alocado não irá mudar de valor (e com isso, a execução do código se torna mais rápida).
 
-Outro detalhe importante sobre esse problema é a forma como você precisa imprimir a saída com exatas 4 casas decimais. Cada linguagem tem a sua maneira de estipular isso, então dê uma olhada.
+Outro detalhe importante sobre esse problema é a forma como você precisa imprimir a saída com exatas 4 casas decimais. Em python essa formatação é feita utilizando ':.nf', onde n é o número de casas decimais após a vírgula, neste caso 4 casas decimais.
 
 ## Python
 
@@ -24,6 +24,6 @@ Outro detalhe importante sobre esse problema é a forma como você precisa impri
 # -*- coding: utf-8 -*-
 raio = float(input())
 pi = 3.14159
-```
 area = pi*(raio**2)
 print(f'A={area:.4f}')
+```
