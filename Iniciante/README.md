@@ -1,5 +1,5 @@
 ## Iniciante (242/336)
-* [1000 - Hello World!](./1000-HelloWorld!/README.md)
+* [1000 - Hello World!](./1000-HelloWorld!)
 * [1001 - Extremamente Básico](./1001-ExtremamenteBásico/README.md)
 * [1002 - Área do Círculo](./1002-ÁreaDoCírculo/README.md)
 * [1003 - Soma Simples](./1003-SomaSimples/README.md)
