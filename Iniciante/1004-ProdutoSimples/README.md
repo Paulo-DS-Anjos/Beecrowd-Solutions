@@ -13,3 +13,13 @@ Imprima a mensagem "PROD" e a variável PROD conforme exemplo abaixo, com um esp
 ## Solução
 
 Vide problemas [1001-ExtremamenteBásico](../1001-ExtremamenteBásico/README.md) e [1003-SomaSimples](../1003-SomaSimples/README.md).
+
+##Python
+
+```Python
+# -*- coding: utf-8 -*-
+A = int(input())
+B = int(input())
+PROD = A * B
+print(f'PROD = {PROD}')
+```
