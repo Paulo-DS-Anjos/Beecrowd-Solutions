@@ -8,14 +8,14 @@ Abaixo está a contagem de problemas que já foram documentados nesta página di
 
 | Categoria | Documentados | Total de problemas |
 | -- | -- | -- |
-| [Iniciante](./Iniciante/README.md) | 12 | 12 |
-| [Ad-Hoc](./problemas/ad-hoc/README.md) | 0 | 0 |
-| [Strings](./problemas/strings/README.md) | 0 | 0 |
-| [Estruturas e Bibliotecas](./problemas/estruturas-e-bibliotecas/README.md) | 0 | 0 |
-| [Matemática](./problemas/matematica/README.md) | 0 | 0 |
-| [Paradigmas](./problemas/paradigmas/README.md) | 0 | 0 |
-| [Grafos](./problemas/grafos/README.md) | 0 | 0 |
-| [Geometria Computacional](./problemas/geometria-computacional/README.md) | 0 | 0 |
-| [SQL](./problemas/sql/README.md) | 0 | 0 |
+| [Iniciante](./Iniciante/README.md) | 5 | 5 |
+| [Ad-Hoc](./Ad-Hoc/README.md) | 0 | 0 |
+| [Strings](./Strings/README.md) | 0 | 0 |
+| [Estruturas e Bibliotecas](./EstruturasEBibliotecas/README.md) | 0 | 0 |
+| [Matemática](./Matematica/README.md) | 0 | 0 |
+| [Paradigmas](./Paradigmas/README.md) | 0 | 0 |
+| [Grafos](./Grafos/README.md) | 0 | 0 |
+| [Geometria Computacional](./GeometriaComputacional/README.md) | 0 | 0 |
+| [SQL](./SQL/README.md) | 0 | 0 |
 | | | |
-| Total | 12 | 12 |
+| Total | 5 | 5 |
