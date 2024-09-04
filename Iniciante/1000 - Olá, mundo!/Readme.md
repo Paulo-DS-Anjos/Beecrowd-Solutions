@@ -2,6 +2,16 @@
 
 ## [Descrição](https://www.beecrowd.com.br/judge/pt/problems/view/1000)
 
+Bem-vindo ao beecrowd!
+
+O seu primeiro programa em qualquer linguagem de programação normalmente é o "Hello World!". Neste primeiro problema tudo o que você precisa fazer é imprimir esta mensagem na tela.
+
+Entrada
+Este problema não possui nenhuma entrada.
+
+Saída
+Você deve imprimir a mensagem "Hello World!" e em seguida o final de linha, conforme o exemplo abaixo.
+
 ## Solução
 
 Este é considerado um dos problemas mais difíceis da beecrowd por questões frias: poucos acertos para muuuitas tentativas. Normalmente, esse é o primeiro problema que as pessoas resolvem na beecrowd e a primeira experiência normalmente não é muito bacana pois a maior parte dos vereditos é Wrong Answer e as pessoas ficam sem saber onde erraram. Se você está aqui por esse motivo, tudo bem, acontece, vida que segue.
