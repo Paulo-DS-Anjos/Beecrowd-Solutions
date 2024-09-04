@@ -5,7 +5,7 @@
 * [1003 - Soma Simples](./1003-SomaSimples/README.md)
 * [1004 - Produto Simples](./1004-ProdutoSimples/README.md)
 * [1005 - Média 1](./1005-Média1/README.md)
-* [1006 - Média 2](./1006/README.md)
+* [1006 - Média 2](./1006-Média2/README.md)
 * [1007 - Diferença](./1007/README.md)
 * [1008 - Salário](./1008/README.md)
 * [1009 - Salário com Bônus](./1009/README.md)
