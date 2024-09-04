@@ -11,8 +11,6 @@ Perceba que este programa é bem direto, os únicos dois objetivos deste problem
 Espero que este problema não tenha te desmotivado de continuar tentando resolver problemas no site. Para qualquer coisa, por favor, consulte este solucionário e continue estudando!
 
 ### Python 3.9
-
-### Python 3.9
 ```python
 # -*- coding: utf-8 -*-
 print("Hello World!")
