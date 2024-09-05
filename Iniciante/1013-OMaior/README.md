@@ -4,7 +4,7 @@
 
 Faça um programa que leia três valores e apresente o maior dos três valores lidos seguido da mensagem “eh o maior”. Utilize a fórmula:
 
-<img src="https://latex.codecogs.com/svg.image?\bg{white}&space;MaiorAB=\frac{(A+B+abs(AB))}{2}" title="\bg_white max(a, max(b, c))" //>
+<img src="https://latex.codecogs.com/svg.image?\bg{white}&space;MaiorAB=\frac{(A+B+abs(AB))}{2}"/>
 
 Obs.: a fórmula apenas calcula o maior entre os dois primeiros (a e b). Um segundo passo, portanto é necessário para chegar no resultado esperado.
 
