@@ -12,7 +12,7 @@ Imprima a mensagem DIFERENCA com todas as letras maiúsculas, conforme exemplo a
 
 ## Solução
 
-Problema muito parecido com os problemas [1001-ExtremamenteBásico](../1001-ExtremamenteBásico/README.md), [1003-SomaSimples](../1003-SomaSimples/README.md) e [1004-ProdutoSimples](../1004-ProdutoSimples/README.md).
+Problema muito parecido com os problemas [1001-ExtremamenteBásico](../1001-ExtremamenteBásico), [1003-SomaSimples](../1003-SomaSimples) e [1004-ProdutoSimples](../1004-ProdutoSimples).
 
 ## Python
 
