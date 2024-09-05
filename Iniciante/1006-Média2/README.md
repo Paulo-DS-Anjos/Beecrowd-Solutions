@@ -12,7 +12,7 @@ Imprima a mensagem "MEDIA" e a média do aluno conforme exemplo abaixo, com 1 d�
 
 ## Solução
 
-Parecido com o problema [1005-Média1](../1005-Média1/README.md), só que com os pesos somando 10 dessa vez.
+Parecido com o problema [1005-Média1](../1005-Média1), só que com os pesos somando 10 dessa vez.
 
 ## Python
 
