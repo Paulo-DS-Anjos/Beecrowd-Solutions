@@ -14,7 +14,7 @@ A saída deverá ser uma mensagem "VOLUME" conforme o exemplo fornecido abaixo, 
 
 ## Solução
 
-Vide problema [1002-ÁreadoCírculo](../1002-ÁreaDoCíruculo/README.md).
+Vide problema [1002-ÁreaDoCírculo](../1002-ÁreaDoCírculo).
 
 ## Python
 
