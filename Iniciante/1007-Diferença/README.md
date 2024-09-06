@@ -14,7 +14,7 @@ Imprima a mensagem DIFERENCA com todas as letras maiúsculas, conforme exemplo a
 
 Problema muito parecido com os problemas [1001-ExtremamenteBásico](../1001-ExtremamenteBásico), [1003-SomaSimples](../1003-SomaSimples) e [1004-ProdutoSimples](../1004-ProdutoSimples).
 
-## Python
+## Python 3.9
 
 ```Python
 # -*- coding: utf-8 -*-
