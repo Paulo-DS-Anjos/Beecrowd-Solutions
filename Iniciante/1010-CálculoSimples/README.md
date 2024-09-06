@@ -16,7 +16,7 @@ Para calcular o total da compra dos dois tipos de produtos, basta multiplicar as
 
 Repare que os códigos dos produtos são inúteis, então em linguagens onde é possível ignorar essas variáveis, Perceba que os códigos dos produtos são inúteis, mas é preciso lê-los mesmo assim. Basta pegar o valor para as variáveis e não as utilizar mais.
 
-## Python
+## Python 3.9
 
 ```Python
 # -*- coding: utf-8 -*-
