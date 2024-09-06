@@ -14,7 +14,7 @@ Imprima a mensagem "PROD" e a variável PROD conforme exemplo abaixo, com um esp
 
 Vide problemas [1001-ExtremamenteBásico](../1001-ExtremamenteBásico) e [1003-SomaSimples](../1003-SomaSimples).
 
-## Python
+## Python 3.9
 
 ```Python
 # -*- coding: utf-8 -*-
