@@ -16,7 +16,7 @@ A compensação do trabalho que o vendedor vai receber ao final das vendas equiv
 
 Perceba que o nome do funcionário não é usado para nada, mas é preciso lê-lo mesmo assim. Basta pegar o valor para a variável e não a utilizar mais.
 
-## Python
+## Python 3.9
 
 ```Python
 # -*- coding: utf-8 -*-
