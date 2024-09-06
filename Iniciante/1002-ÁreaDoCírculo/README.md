@@ -18,7 +18,7 @@ Só aplicar a fórmula da área direto, criamos uma variável para armazenar o v
 
 Outro detalhe importante sobre esse problema é a forma como você precisa imprimir a saída com exatas 4 casas decimais. Em python essa formatação é feita utilizando ':.nf', onde n é o número de casas decimais após a vírgula, neste caso 4 casas decimais.
 
-## Python
+## Python 3.9
 
 ```python
 # -*- coding: utf-8 -*-
