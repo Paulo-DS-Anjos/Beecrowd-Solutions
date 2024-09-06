@@ -14,7 +14,7 @@ Imprima a mensagem "MEDIA" e a média do aluno conforme exemplo abaixo, com 1 d�
 
 Parecido com o problema [1005-Média1](../1005-Média1), só que com os pesos somando 10 dessa vez.
 
-## Python
+## Python 3.9
 
 ```Python
 # -*- coding: utf-8 -*-
