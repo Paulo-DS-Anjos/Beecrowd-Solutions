@@ -29,7 +29,7 @@ As fórmulas que você pode usar são:
 
 <img src="https://latex.codecogs.com/png.image?\dpi{110}&space;\bg_white&space;\text{Area&space;do&space;Retangulo}&space;=&space;A&space;\times&space;B" title="\bg_white \text{Area do Retangulo} = A \times B" />
 
-## Python
+## Python 3.9
 
 ```Python
 # -*- coding: utf-8 -*-
