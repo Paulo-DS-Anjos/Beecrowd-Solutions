@@ -32,7 +32,7 @@ como queríamos demonstrar.
 
 O problema pode ser resolvido de duas maneiras diferentes, uma delas é usando o método lambda que cria uma função anônima, ela é tipicamente usada para definir funções pequenas e simples, especialmente quando você precisa de uma função temporária que será usada apenas uma vez ou por pouco tempo. Outra maneira é utilizar a fómula uma vez para encontra o maior valor entre `a` e `b`, armazenar e resultado em uma variável `x` e depois disso realizar uma segunda verificação e `x` (maior valor entre `a` e `b`) e `c`, e então imprimir esse resultado.
 
-## Python
+## Python 3.9
 
 ### Método 1
 
