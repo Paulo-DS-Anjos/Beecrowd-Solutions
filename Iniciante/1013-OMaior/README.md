@@ -29,3 +29,16 @@ Considerando que a é o maior número e b é o menor, temos que
 <img src="https://latex.codecogs.com/png.image?\dpi{110}&space;\bg_white&space;max(a,&space;b)&space;=&space;\frac{a&space;&plus;&space;b&space;&plus;&space;abs(a&space;-&space;b)}{2}&space;\\\text{}\\max(a,&space;b)&space;=&space;\frac{a&space;&plus;&space;b&space;&plus;&space;a&space;-&space;b}{2}&space;\\\text{}\\max(a,&space;b)&space;=&space;\frac{2a}{2}&space;\\\text{}\\max(a,&space;b)&space;=&space;a" title="\bg_white max(a, b) = \frac{a + b + abs(a - b)}{2} \\\text{}\\max(a, b) = \frac{a + b + a - b}{2} \\\text{}\\max(a, b) = \frac{2a}{2} \\\text{}\\max(a, b) = a" />
 
 como queríamos demonstrar.
+
+O problema pode ser resolvido de duas maneiras diferentes, uma delas é usando o método lambda que cria uma função anônima, ela é tipicamente usada para definir funções pequenas e simples, especialmente quando você precisa de uma função temporária que será usada apenas uma vez ou por pouco tempo. Outra maneira é utilizar a fómula uma vez para encontra o maior valor entre `a` e `b`, armazenar e resultado em uma variável `x` e depois disso realizar uma segunda verificação e `x` (maior valor entre `a` e `b`) e `c`, e então imprimir esse resultado.
+
+## Python
+
+### Método 1
+
+```Python
+# -*- coding: utf-8 -*-
+A,B,C = map(int,input().split())
+maior = lambda A, B: (A + B + abs(A - B))//2
+print(f'{maior(A, maior(B, C))} eh o maior')
+```
