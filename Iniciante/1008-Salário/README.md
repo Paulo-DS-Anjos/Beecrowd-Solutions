@@ -14,7 +14,7 @@ Imprima o número e o salário do funcionário, conforme exemplo fornecido, com 
 
 Para calcular o salário do funcionário, basta multiplicar o valor que ele recebe por hora pelo número de horas trabalhadas. Após isso, imprimir tanto o número do funcionário quanto o salário que calculamos.
 
-## Python
+## Python 3.9
 
 ```Python
 # -*- coding: utf-8 -*-
