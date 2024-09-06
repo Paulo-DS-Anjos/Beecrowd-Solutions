@@ -14,7 +14,7 @@ Imprima a mensagem "SOMA" com todas as letras maiúsculas, com um espaço em bra
 
 Vide problema [1001-ExtremamenteBásico](../1001-ExtremamenteBásico/README.md).
 
-## Python
+## Python 3.9
 
 ```Python
 # -*- coding: utf-8 -*-
