@@ -14,7 +14,7 @@ Apresente o valor que representa o consumo médio do automóvel com 3 casas apó
 
 Se queremos saber o consumo médio do automóvel por km/L, precisamos dividir a distância percorrida (em km) pelo total de combustível gasto (em L).
 
-## Python
+## Python 3.9
 
 ```Python
 # -*- coding: utf-8 -*-
