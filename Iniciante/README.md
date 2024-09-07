@@ -17,3 +17,7 @@
 * [1015 - Distância Entre Dois Pontos](./1015-DiferençaEntreDoisPontos)
 * [1016 - Distância](./1016-Distância)
 * [1017 - Gasto de Combustível](./1017-GastoDeCombustível)
+* [1018 - Cédulas](./1018-Cédulas)
+* [1019 - Conversão de Tempo](./1019-ConversãoDeTempo)
+* [1020 - Idade em Dias](./1020-IdadeEmDias)
+* [1021 - Notas em Moedas](./1021-NotasEmMoedas)
