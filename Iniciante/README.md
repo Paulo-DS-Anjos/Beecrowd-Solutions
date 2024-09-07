@@ -14,7 +14,7 @@
 * [1012 - Área](./1012-Área)
 * [1013 - O Maior](./1013-OMaior)
 * [1014 - Consumo](./1014-Consumo)
-* [1015 - Distância Entre Dois Pontos](./1015-DiferençaEntreDoisPontos)
+* [1015 - Distância Entre Dois Pontos](./1015-DistânciaEntreDoisPontos)
 * [1016 - Distância](./1016-Distância)
 * [1017 - Gasto de Combustível](./1017-GastoDeCombustível)
 * [1018 - Cédulas](./1018-Cédulas)
