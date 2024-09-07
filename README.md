@@ -8,7 +8,7 @@ Abaixo está a contagem de problemas que já foram documentados nesta página di
 
 | Categoria | Documentados | Total de problemas |
 | -- | -- | -- |
-| [Iniciante](./Iniciante/README.md) | 18 | 18 |
+| [Iniciante](./Iniciante/README.md) | 22 | 22 |
 | [Ad-Hoc](./Ad-Hoc/README.md) | 0 | 0 |
 | [Strings](./Strings/README.md) | 0 | 0 |
 | [Estruturas e Bibliotecas](./EstruturasEBibliotecas/README.md) | 0 | 0 |
@@ -18,4 +18,4 @@ Abaixo está a contagem de problemas que já foram documentados nesta página di
 | [Geometria Computacional](./GeometriaComputacional/README.md) | 0 | 0 |
 | [SQL](./SQL/README.md) | 0 | 0 |
 | | | |
-| Total | 18 | 18 |
+| Total | 22 | 22 |
