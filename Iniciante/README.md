@@ -16,4 +16,4 @@
 * [1014 - Consumo](./1014-Consumo)
 * [1015 - Distância Entre Dois Pontos](./1015-DiferençaEntreDoisPontos)
 * [1016 - Distância](./1016-Distância)
-* [1017 - Gasto de Combustível](./1017-GastoCombustível)
+* [1017 - Gasto de Combustível](./1017-GastoDeCombustível)
