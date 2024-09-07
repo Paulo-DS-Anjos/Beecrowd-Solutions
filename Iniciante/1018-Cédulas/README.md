@@ -39,7 +39,6 @@ Dessa maneira, nossa resposta final são 5 notas de R$ 100,00, 1 nota de R$ 50,0
 N = int(input())
 
 print(N)
-
 print(f'{N//100} nota(s) de R$ 100,00')
 N %= 100
 print(f'{N//50} nota(s) de R$ 50,00')
