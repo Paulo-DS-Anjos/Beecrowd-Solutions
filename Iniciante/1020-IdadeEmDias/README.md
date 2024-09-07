@@ -14,7 +14,7 @@ Imprima a saída conforme exemplo fornecido.
 
 ## Solução
 
-Vide [1019 - Conversão de Tempo](../1019-ConversãoDeTempo/README.md).
+Vide [1019 - Conversão de Tempo](../1019-ConversãoDeTempo).
 
 ### Python
 
