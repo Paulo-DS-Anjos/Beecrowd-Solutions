@@ -1,4 +1,4 @@
-## Iniciante (17/336)
+## Iniciante (22/336)
 * [1000 - Hello World!](./1000-HelloWorld!)
 * [1001 - Extremamente Básico](./1001-ExtremamenteBásico)
 * [1002 - Área do Círculo](./1002-ÁreaDoCírculo)
@@ -20,4 +20,4 @@
 * [1018 - Cédulas](./1018-Cédulas)
 * [1019 - Conversão de Tempo](./1019-ConversãoDeTempo)
 * [1020 - Idade em Dias](./1020-IdadeEmDias)
-* [1021 - Notas em Moedas](./1021-NotasEmMoedas)
+* [1021 - Notas em Moedas](./1021-NotasEMoedas)
