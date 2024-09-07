@@ -2,7 +2,7 @@
 
 ## [Descrição](https://www.beecrowd.com.br/judge/pt/problems/view/1013)
 
-Faça um programa que leia três valores e apresente o maior dos três valores lidos seguido da mensagem “eh o maior”. Utilize a fórmula:
+Faça um programa que leia três valores e apresente o maior dos três valores lidos seguido da mensagem `eh o maior`. Utilize a fórmula:
 
 <img src="https://latex.codecogs.com/png.image?\dpi{110}\bg{white}&space;MaiorAB=\frac{(A+B+abs(AB))}{2}" title="\bg_white MaxAB"/>
 
@@ -12,7 +12,7 @@ Obs.: a fórmula apenas calcula o maior entre os dois primeiros (a e b). Um segu
 O arquivo de entrada contém três valores inteiros.
 
 ### Saída:
-Imprima o maior dos três valores seguido por um espaço e a mensagem "eh o maior".
+Imprima o maior dos três valores seguido por um espaço e a mensagem `eh o maior`.
 
 ## Solução
 
