@@ -12,6 +12,16 @@ Mostre a respectiva mensagem após a validação dos valores.
 
 ## Solução
 
+Esse problema parece ser bem mais complicado do que realmente é, mas se dividirmos o problemas em partes podemos concluir que ele é muito simples. Abaixo estão as etapas:
+
+* B for maior do que C;
+* D for maior do que A;
+* Soma de C com D for maior que a soma de A e B;
+* C e D, ambos, forem positivos;
+* A for par;
+
+Se todas essas condições forem verdadeiras, será exibida a mensagem `Valores aceitos` senão, imprimir a mensagem `Valores nao aceitos`. podemos resolver esse problema com apenas um `if` e com o operador lógico `and`.
+
 Para verificar se um número é par, basta verificar se o resto da divisão do número por 2 é 0.
 
 > Independente de você considerar 0 como um número positivo ou um número não-negativo, é possível dar Accepted com as duas abordagens (testando positivo se número > -1 ou número > 0).
