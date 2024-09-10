@@ -21,7 +21,7 @@ O resultado deve ser apresentado com uma casa decimal.
 
 ## Solução
 
-Podemos pensar em alguns exemplos de tamanhos de lados que não podem formar triângulo (como por exemplo, dois lados muito pequenos e um lado muito grande). Para que os lados `A`, `B` e `C` sejam capazes de formar um triângulo, é necessário que a soma de dois dos lados seja sempre maior que o terceiro lado, ou seja, `$A < B + C$, $B < A + C$ e $C < A + B$`. Cumprindo essas três inequações, temos três lados de um triângulo.
+Podemos pensar em alguns exemplos de tamanhos de lados que não podem formar triângulo (como por exemplo, dois lados muito pequenos e um lado muito grande). Para que os lados `A`, `B` e `C` sejam capazes de formar um triângulo, é necessário que a soma de dois dos lados seja sempre maior que o terceiro lado, ou seja, ` $A < B + C$, $B < A + C$ e $C < A + B$ `. Cumprindo essas três inequações, temos três lados de um triângulo.
 
 ## Python 3.9
 
