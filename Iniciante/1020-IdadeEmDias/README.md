@@ -16,7 +16,7 @@ Imprima a saída conforme exemplo fornecido.
 
 Vide [1019 - Conversão de Tempo](../1019-ConversãoDeTempo).
 
-### Python
+### Python 3.9
 
 ```Python
 # -*- coding: utf-8 -*-
