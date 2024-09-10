@@ -18,7 +18,7 @@ A saída deve ser uma mensagem conforme exemplo abaixo.
 
 A solução desse problema é bem direta, basta ver se o número pertence a um dos intervalos, lembrando de usar cadeias de if-else ou pode haver mais de uma impressão.
 
-## Python
+## Python 3.9
 
 ```Python
 # -*- coding: utf-8 -*
