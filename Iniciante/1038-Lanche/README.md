@@ -16,7 +16,7 @@ O arquivo de saída deve conter a mensagem "Total: R$ " seguido pelo valor a ser
 
 Podemos abordar o problema de várias maneiras, vou mostrar duas bem simples, uma delas é utilizando as condicionais `if`, `elif` e `else`, para todas as linguagens que suportam a diretiva `switch`, aqui está um exemplo bem simples de como ele funciona na prática, em python não temos essa condicional. Outra maneira de resolver é guardar os preços em vetores e acessá-los diretamente, o que resultou num código bem mais curto. Também é possível seguir essa abordagem do Python em outras linguagens.
 
-## Python
+## Python 3.9
 
 ### Método 1:
 
