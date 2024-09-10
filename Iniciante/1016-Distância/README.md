@@ -18,7 +18,7 @@ Imprima o tempo necessário seguido da mensagem `minutos`.
 
 No enunciado, está dizendo que o carro `Y` se distancia do carro `X` um quilômetro a cada `2 minutos`. Logo, cada quilômetro de distância significa 2 minutos que se passaram.
 
-## Python
+## Python 3.9
 
 ```Python
 # -*- coding: utf-8 -*-
