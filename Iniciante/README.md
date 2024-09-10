@@ -25,3 +25,7 @@
 * [1036 - Fórmula de Bhaskara](./1036-FórmulaDeBhaskara)
 * [1037 - Intervalo](./1037-Intervalo)
 * [1038 - Lanche](./1038-Lanche)
+* [1040 - Média 3](./1040-Média3)
+* [1041 - Coordenadas de um Ponto](./1041-CoordenadasDeUmPonto)
+* [1042 - Sort Simples](./1042-SortSimples)
+* [1043 - Triângulo](./1043-Triângulo)
