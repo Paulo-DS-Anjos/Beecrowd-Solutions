@@ -2,7 +2,7 @@
 
 Boas vindas ao repositório de soluções não oficial da beecrowd. Aqui você encontrará diversos problemas devidamente explicados com suas devidas análises, incluindo conteúdo teórico, e soluções.
 
->OBS.: Algumas palavras ou formatações podem ser exibidas de maneira errada se o navegador realizar a tradução automática para português, é recomendável deixar a tradução em inglês já que todos os textos estão em português não haverá alteração neles, somente nos algortimos.
+>OBS.: Algumas palavras ou formatações podem ser exibidas de maneira errada se o navegador realizar a tradução automática para português, é recomendável deixar a tradução em inglês já que todos os textos estão em português não haverá alteração neles, somente nos algoritmos.
 
 ## Quantos problemas já foram documentados aqui?
 
