@@ -32,7 +32,7 @@ Por exemplo, com o número 576, seguimos o seguinte raciocínio:
 
 Dessa maneira, nossa resposta final são 5 notas de R$ 100,00, 1 nota de R$ 50,00, 1 de R$ 20,00, 1 de R$ 5,00 e 1 de R$ 1,00. Experimente com outros valores de `N` e veja que pegar as divisões inteiras e seus respectivos restos forma um raciocínio interessante para a resolução deste e dos próximos problemas subsequentes.
 
-## Python
+## Python 3.9
 
 ```Python
 # -*- coding: utf-8 -*-
