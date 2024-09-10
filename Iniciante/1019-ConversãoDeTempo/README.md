@@ -20,7 +20,7 @@ Para calcular o número de horas cheias que existem em um tempo em segundos, bas
 4. Fora desses 55 minutos completos, sobraram 53 segundos;
 5. Logo, nossa resposta é 38 horas, 55 minutos e 53 segundos.
 
-## Python
+## Python 3.9
 
 ```Python
 # -*- coding: utf-8 -*-
