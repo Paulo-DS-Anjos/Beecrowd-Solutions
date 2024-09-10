@@ -1,4 +1,4 @@
-## Iniciante (23/336)
+## Iniciante (24/336)
 * [1000 - Hello World!](./1000-HelloWorld!)
 * [1001 - Extremamente Básico](./1001-ExtremamenteBásico)
 * [1002 - Área do Círculo](./1002-ÁreaDoCírculo)
@@ -22,3 +22,5 @@
 * [1020 - Idade em Dias](./1020-IdadeEmDias)
 * [1021 - Notas em Moedas](./1021-NotasEMoedas)
 * [1035 - Teste de Seleção 1](./1035-TesteDeSeleção1)
+* [1036 - Fórmula de Bhaskara](./1036-FórmulaDeBhaskara)
+* [1037 - Intervalo](./1037-Intervalo)
