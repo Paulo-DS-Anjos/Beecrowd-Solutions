@@ -18,4 +18,25 @@ A saída deve apresentar o quadrante em que o ponto se encontra.
 
 ## Solução
 
-A abordagem que eu usei aqui foi uma baseada em mais ou menos como nós faríamos para identificar um quadrante na vida real. Primeiro testamos a coordenada X e depois a coordenada Y e respondemos de acordo. Há diversas formas diferentes de montar as estruturas de condicionais deste problema (eu mesma resolvi de uma maneira completamente diferente dessa abaixo quando resolvi o exercício pela primeira vez). Tente pensar na forma que faz mais sentido para você.
+A abordagem que eu usei aqui foi uma baseada em mais ou menos como nós faríamos para identificar um quadrante na vida real. Primeiro testamos a coordenada X e depois a coordenada Y e respondemos de acordo. Há diversas formas diferentes de montar as estruturas de condicionais deste problema (eu mesmo resolvi de uma maneira completamente diferente dessa abaixo quando resolvi o exercício pela primeira vez). Tente pensar na forma que faz mais sentido para você.
+
+## Python 3.9
+
+```Python
+# -*- coding: utf-8 -*-
+x, y = map(float, input().split())
+if x == 0 and y == 0:
+    print("Origem")
+elif x == 0:
+    print("Eixo Y")
+elif y == 0:
+    print("Eixo X")
+elif x > 0 and y > 0:
+    print("Q1")
+elif x < 0 and y > 0:
+    print("Q2")
+elif x < 0 and y < 0:
+    print("Q3")
+elif x > 0 and y < 0:
+    print("Q4")
+```
