@@ -1,4 +1,4 @@
-## Iniciante (30/336)
+## Iniciante (31/336)
 * [1000 - Hello World!](./1000-HelloWorld!)
 * [1001 - Extremamente Básico](./1001-ExtremamenteBásico)
 * [1002 - Área do Círculo](./1002-ÁreaDoCírculo)
@@ -29,3 +29,4 @@
 * [1041 - Coordenadas de um Ponto](./1041-CoordenadasDeUmPonto)
 * [1042 - Sort Simples](./1042-SortSimples)
 * [1043 - Triângulo](./1043-Triângulo)
+* [1044 - Múltiplos](./1044-Múltiplos)
