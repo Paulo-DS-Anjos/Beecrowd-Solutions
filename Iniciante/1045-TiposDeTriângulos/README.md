@@ -20,7 +20,7 @@ Imprima todas as classificações do triângulo especificado na entrada.
 ## Solução
 
 Primeiro, verifique se é possível formar triângulo, caso contrário todas as outras verificações se tornam inúteis. Só verificando que é de fato possível formar triângulo que então se faz o resto das verificações, agrupando em `RETANGULO`/`OBTUSANGULO`/`ACUTANGULO` e `EQUILATERO`/`ISOSCELES`.
-> OBS.: ordenar eles em ordem decrescente ajuda diminuir o número de condicionais necessárias para solucionar o problema.
+> OBS.: Ordenar as arestas em ordem decrescente ajuda a diminuir o número de condicionais necessárias para solucionar o problema.
 
 ## Python 3.9
 
