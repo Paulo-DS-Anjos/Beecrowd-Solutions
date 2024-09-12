@@ -31,3 +31,4 @@
 * [1043 - Triângulo](./1043-Triângulo)
 * [1044 - Múltiplos](./1044-Múltiplos)
 * [1046 - Tempo de Jogo](./1046-TempoDeJogo)
+* [1047 - Tempo de Jogo com Minutos](./1047-TempoDeJogoComMinutos)
