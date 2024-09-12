@@ -30,3 +30,4 @@
 * [1042 - Sort Simples](./1042-SortSimples)
 * [1043 - Triângulo](./1043-Triângulo)
 * [1044 - Múltiplos](./1044-Múltiplos)
+* [1046 - Tempo de Jogo](./1046-TempoDeJogo)
