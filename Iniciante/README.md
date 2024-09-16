@@ -33,3 +33,7 @@
 * [1045 - Tipos de Triângulos](./1045-TiposDeTriângulos)
 * [1046 - Tempo de Jogo](./1046-TempoDeJogo)
 * [1047 - Tempo de Jogo com Minutos](./1047-TempoDeJogoComMinutos)
+* [1048 - Aumento de Salário](./1048-AumentoDeSalário)
+* [1049 - Animal](./1049-Animal)
+* [1050 - DDD](./1050-DDD)
+* [1051 - Imposto de Renda](./1051-ImpostoDeRenda)
