@@ -12,7 +12,7 @@ Imprima por extenso o nome do mês correspondente ao número existente na entrad
 
 ## Solução
 
-Vide problema [1050 - DDD](../1050/README.md).
+Vide problema [1050 - DDD](./1050-DDD/README.md).
 
 ## Python 3.9
 
