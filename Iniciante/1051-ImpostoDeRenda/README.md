@@ -64,5 +64,3 @@ else:
     imposto = 1000*0.08 + 1500*0.18 + (salario-4500)*0.28
     print(f"R$ {imposto:.2f}")
 ```
-
-A abordagem que fica mais fácil de codificar é começar a cobrar de cima pra baixo, pegando a parte do salário que é acima de R$ 4500,00 primeiro e depois ir diminuindo e aplicando o imposto até sobrar a parte isenta, que não é cobrada.
