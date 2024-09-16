@@ -14,3 +14,26 @@ A entrada consiste de um único valor inteiro.
 
 ### Saída:
 Imprima o nome da cidade correspondente ao DDD existente na entrada. Imprima DDD nao cadastrado caso não existir DDD correspondente ao número digitado.
+
+## Solução
+
+Para este problema, basta usar sequência de ifs, switches ou dicionários dependendo da linguagem utilizada, e python optei por utilizar dicionários, porém utilizar ifs também soluciona o problema.
+
+## Python 3.9
+
+```Python
+# -*- coding: utf-8 -*-
+dicionario = {
+    61 : 'Brasilia',
+    71 : 'Salvador',
+    11 : 'Sao Paulo',
+    21 : 'Rio de Janeiro',
+    32 : 'Juiz de Fora',
+    19 : 'Campinas',
+    27 : 'Vitoria',
+    31 : 'Belo Horizonte',
+    }
+
+ddd = int(input())
+print('DDD nao cadastrado' if not ddd in dicionario else dicionario[ddd])
+```
