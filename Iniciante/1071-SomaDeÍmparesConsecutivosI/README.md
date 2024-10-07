@@ -14,7 +14,7 @@ O programa deve imprimir um valor inteiro. Este valor é a soma dos valores ímp
 
 Como essa sequência de números ímpares pode ser considerado uma progressão aritmética e como já sabemos o primeiro e o último elemento de tal sequência, então podemos usar a fórmula de progressão aritmética para calcular a soma com complexidade constante.
 
-O único detalhe é que precisamos saber quantos números há entre `X` e `Y`. Precisamos estipularmos `X` e `Y`, podemos calcular a quantidade de números ímpares entre `X` e `Y` inclusive fazendo `(X - Y)/2 + 1`, já que ambos os valores são ímpares, restando apenas somar 1 para contar o elemento `X` ou `Y`.
+O único detalhe é que precisamos saber quantos números há entre `X` e `Y`. Precisamos estipular `X` e `Y`, podemos calcular a quantidade de números ímpares entre `X` e `Y` inclusive fazendo `(X - Y)/2 + 1`, já que ambos os valores são ímpares, restando apenas somar 1 para contar o elemento `X` ou `Y`.
 
 ## Python 3.9
 
