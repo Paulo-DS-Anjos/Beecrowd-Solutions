@@ -1,4 +1,4 @@
-## Iniciante (38/336)
+## Iniciante (41/336)
 * [1000 - Hello World!](./1000-HelloWorld!)
 * [1001 - Extremamente Básico](./1001-ExtremamenteBásico)
 * [1002 - Área do Círculo](./1002-ÁreaDoCírculo)
@@ -37,3 +37,6 @@
 * [1049 - Animal](./1049-Animal)
 * [1050 - DDD](./1050-DDD)
 * [1051 - Imposto de Renda](./1051-ImpostoDeRenda)
+* [1052 - Mês](./1052-Mês)
+* [1059 - Números Pares](./1059-NúmerosPares)
+* [1060 - Números Positivos](./1060-NúmerosPositivos)
