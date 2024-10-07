@@ -17,7 +17,8 @@ Podemos começar lendo um valor `x`, depois criamos um laço for que começa de 
 ## Python 3.9
 
 ```Python
-X = int(input())
-for i in range(1, X + 1, 2):
+# -*- coding: utf-8 -*-
+x = int(input())
+for i in range (1,x+1,2):
     print(i)
 ```
