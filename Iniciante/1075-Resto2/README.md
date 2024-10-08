@@ -20,8 +20,7 @@ Simplesmente não tratei o caso de $X$ menor ou igual a 2, o que indica que não
 
 ```Python
 # -*- coding: utf-8 -*-
-num = int(input())
-for i in range(1,10001):
-    if i % num == 2:
-        print(i)
+N = int(input())
+for i in range(2, 10000, N):
+    print(i)
 ```
