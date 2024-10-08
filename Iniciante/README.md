@@ -43,7 +43,7 @@
 * [1061 - Tempo de um Evento](./1061-TempoDeUmEvento)
 * [1064 - Positivos e Média](./1064-PositivosEMédia)
 * [1065 - Pares entre Cinco Números](./1065-ParesEntreCincoNúmeros)
-* [1066 - Pares, Ímpares, Positivos e Negativos](./ParesÍmparesPositivosENegativos)
+* [1066 - Pares, Ímpares, Positivos e Negativos](./1066-ParesÍmparesPositivosENegativos)
 * [1067 - Números Ímpares](1067-NúmerosÍmpares)
 * [1070 - Seis Números Ímpares](1070-SeisNúmerosÍmpares)
 * [1071 - Soma de Ímpares Consecutivos I](1071-SomaDeÍmparesConsecutivosI)
